@@ -1,0 +1,22 @@
+{
+  "name": "domain-pnckdevapp",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "domain pnckdevapp ทราฟฟิค การเข้าชมเว็บไซต์ และ ลิ้งค์ย้อนกลับที่มีคุณภาพสูงส่งทราฟฟิคี",
+  "keywords": [
+    "domain",
+    "SEO",
+    "BACKLINK",
+    "linktraffic",
+    "traffic",
+    "linkDomain",
+    "ทราฟฟิค",
+    "ลิ้งค์ย้อนกลับ",
+    "คุณภาพสูง"
+  ],
+  "repository": "https://github.com/UFAPRO888s/domain-pnckdevapp",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
